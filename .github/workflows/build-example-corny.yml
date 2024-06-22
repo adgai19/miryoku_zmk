@@ -12,3 +12,4 @@ jobs:
       shield: '["corne_left","corne_right"]'
       kconfig: '["CONFIG_ZMK_DISPLAY=y"]'
       alphas: '["workman"]'
+      mapping: "miryoku/mapping/42/corne.h"
