@@ -10,6 +10,6 @@ jobs:
     with:
       board: '["seeeduino_xiao_ble"]'
       shield: '["corne_left","corne_right"]'
-      kconfig: '["CONFIG_ZMK_DISPLAY=y"]'
       alphas: '["workman"]'
+      branches: '["zmkfirmware/zmk/main"]'
       mapping: '["miryoku/mapping/42/corne.h"]'
