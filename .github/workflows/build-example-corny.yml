@@ -9,7 +9,7 @@ jobs:
     secrets: inherit
     with:
       board: '["seeeduino_xiao_ble"]'
-      shield: '["corne_left","corne_right"]'
+      shield: '["corny_left","corny_right"]'
       alphas: '["workman"]'
       branches: '["zmkfirmware/zmk/main"]'
       mapping: '["miryoku/mapping/42/corne.h"]'
