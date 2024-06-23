@@ -11,7 +11,6 @@ jobs:
       board: '["seeeduino_xiao_ble"]'
       shield: '["corny_left","corny_right"]'
       alphas: '["workman"]'
-      mapping: '["miryoku/mapping/42/corne.h"]'
       custom_config: '["#define MIRYOKU_KLUDGE_MOUSEKEYSPR"]'
       kconfig: '["CONFIG_ZMK_MOUSE=y\nCONFIG_ZMK_DISPLAY_HIDE_MOMENTARY_LAYERS=y\nCONFIG_CUSTOM_WIDGET_LAYER_STATUS_HIDE_HEADING=y\nCONFIG_CUSTOM_WIDGET_LOGO_IMAGE_MIRYOKU=y\nCONFIG_IL0323_INVERT=y"]'
       branches: '["zmkfirmware/zmk/main petejohanson/zmk/feat/pointers-move-scroll adgai19/zmk/main"]'
