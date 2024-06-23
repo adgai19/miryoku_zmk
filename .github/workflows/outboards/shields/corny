@@ -1,7 +1,7 @@
 # Copyright 2023 Manna Harbour
 # https://github.com/manna-harbour/miryoku
 
-outboard_repository=https://github.com/Putitii/zmk-choc_corne
+outboard_repository=https://github.com/adgai19/miryoku_zmk
 outboard_ref=main
-outboard_from=config/boards/shields/haploinsufficient
-outboard_to=boards/shields/choc-corne
+outboard_from=config/boards/shields/corny
+outboard_to=boards/shields/corny
